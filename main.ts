@@ -10,6 +10,7 @@ let broadcast = 0
 radio.setGroup(1)
 radio.setTransmitPower(0)
 broadcast = 1
+basic.showNumber(broadcast)
 basic.forever(function () {
     radio.sendNumber(broadcast)
     basic.pause(randint(500, 3000))
