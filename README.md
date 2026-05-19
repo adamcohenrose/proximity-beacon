@@ -1,3 +1,6 @@
+Part of a game - run this code on up to 9 micro:bits, and find them using other micro:bits running the [proximity-beacon-finder](https://adamcohenrose.github.io/proximity-beacon-finder/) code.
+
+----
 
 > Open this page at [https://adamcohenrose.github.io/proximity-beacon/](https://adamcohenrose.github.io/proximity-beacon/)
 
